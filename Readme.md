@@ -1,4 +1,4 @@
 #Word Game
 
 Developed with ReactJS
-Wellcome to finding word game.
+Welcome to finding word game.
